@@ -9,5 +9,3 @@ Process Piping and Instrumentation Diagram (PI&amp;D) images to extract relevant
 5. Extract complete information
 6. Create a report
 7. Identify differences between P&ID versions
-
-testing key function
