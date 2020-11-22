@@ -1,0 +1,12 @@
+{
+    "workbench.settings.editor": "json",
+    "workbench.colorTheme": "Bluloco Light Italic",
+    "workbench.iconTheme": "helium-icon-theme",
+    "workbench.settings.openDefaultSettings": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "debug.console.fontSize": 16
+}
