@@ -2,4 +2,5 @@
 /.vscode
 */.ipynb_chekpoints/*.ipynb
 .ipynb_chekpoints
+/.ipynb_checkpoints
 /debug.log
