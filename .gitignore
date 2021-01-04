@@ -1,5 +1,5 @@
 /venv
 /.vscode
-*/.ipynb_chekpoints/*
+*/.ipynb_chekpoints/*.ipynb
 .ipynb_chekpoints
 /debug.log
