@@ -1,0 +1,23 @@
+PROJECT VISION STATEMENT
+
+VISION:
+o- What's the purpose of creating the product? => The main purpose is to reduce the time Asset Management Engineers spend on extracting important imformation from engineering 
+diagrams, in this case, piping and instrumentation diagrams P&ID
+o- Which positive change will bring about? => It increases data extraction quality and speeds up the process of scraping data from diagrams
+
+TARGET GROUP:
+o- Which market or market segment does the product address? => Any company, which implements Asset Management Engineering or asset management engineering consulting companies
+o- Who are the target customers and users? => Asset Management Engineers
+
+NEEDS:
+o- What problem does the product solve? => the excessive time consumed by engineers to extract data manually and the quality of the data extracted
+o- Which benefit does it provide? => Make Asset Management Engineer's life easy
+
+PRODUCT:
+o- What product is it? => A web-based application
+o- What makes it stand out? => Simplistic design and use, and high accuracy in indentifying all elements in diagrams
+o- is it feasible to develop the product? => it is feasible, even though the major challenge is the ML algorigthm for the shape recognition
+
+BUSINESS GOALS:
+o- How is the product going to benefit the company? => This will be one of various servicies focused on increasing data quality extraction and management
+o- What are the business goals? => MAIN GOAL Q1 2021: Develop a Minimum Viable Product (MVP) able to identify different shapes in a P&ID by first quarter of 2021
