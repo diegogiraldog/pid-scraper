@@ -3,7 +3,7 @@ from PIL import Image
 import os
 
 Image.MAX_IMAGE_PIXELS = None
-output = "images_tests/"
+output = "image_tests/"
 
 
 def convert(file, output):
@@ -11,7 +11,7 @@ def convert(file, output):
         os.makedirs(output)
 
     pages = convert_from_path(file, 500)
-    counter = 1
+    counter = 3
 
     for page in pages:
         my_file = output + "output" + str(counter) + ".jpg"
@@ -20,8 +20,6 @@ def convert(file, output):
         print(my_file)
 
 
-file = (
-    r"C:\Users\diego.giraldo\OneDrive - LOGICAMMS LTD\Downloads\05-P-PID-0253_0_1.pdf"
-)
+file = r"C:\Users\diego.giraldo\OneDrive - LOGICAMMS LTD\Downloads\2-8800-A-0625.pdf"
 
 convert(file, output)
